@@ -20,7 +20,7 @@ python -m venv .env_name
 .env_name\Scripts\activate
 ```
 
-# if this error comes: .venv\Scripts\activate : File C:\Users\frhan\Desktop\03_Farhan\Brain Tumor Detection\.venv\Scripts\Activate.ps1 cannot be loaded because running scripts is disabled on this system (which I got)
+if this error comes: .venv\Scripts\activate : File C:\Users\frhan\Desktop\03_Farhan\Brain Tumor Detection\.venv\Scripts\Activate.ps1 cannot be loaded because running scripts is disabled on this system (which I got)
 
 # step1: Run this command in the shell where you are working
 
