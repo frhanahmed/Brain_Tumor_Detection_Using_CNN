@@ -37,9 +37,10 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 .env_name\Scripts\activate
 ```
 
-# 4. Deactivate the environment (run this command when you are done using the environment or you want to move out of the environment):
+# 4. Deactivate the environment:
+ 
 
 ```javascript
-deactivate 
+deactivate  (run this command when you are done using the environment or you want to move out of the environment)
 ```
 
